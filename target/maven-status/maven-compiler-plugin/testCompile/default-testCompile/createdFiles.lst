@@ -1,0 +1,7 @@
+utilities\formatter\PrettyReports.class
+utilities\ConfigReader.class
+pages\Allpages.class
+utilities\Driver.class
+utilities\formatter\ConfigFactory.class
+runner\TestRunner.class
+utilities\ReusableMethods.class
