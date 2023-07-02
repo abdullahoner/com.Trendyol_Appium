@@ -1,3 +1,4 @@
+stepDefinitions\trendyolStepdefinition.class
 utilities\formatter\PrettyReports.class
 utilities\ConfigReader.class
 pages\Allpages.class

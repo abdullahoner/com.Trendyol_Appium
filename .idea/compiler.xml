@@ -10,6 +10,7 @@
         <module name="com.hepsiburada" />
         <module name="com.trendyol_Appium" />
         <module name="com.trendyolAppium" />
+        <module name="com.trendyol" />
       </profile>
     </annotationProcessing>
   </component>

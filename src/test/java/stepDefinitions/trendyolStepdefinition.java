@@ -46,11 +46,14 @@ public class trendyolStepdefinition {
     @Given("click to login button")
     public void click_to_login_button() {
         allpages.loginButton.click();
+        bekle(2);
         Driver.getAppiumDriver().navigate().back();
+        bekle(1);
     }
     @Given("click to home page button")
     public void click_to_home_page_button() {
         allpages.homePageButton.click();
+
     }
     @Given("click to product")
     public void click_to_product() {
@@ -84,8 +87,10 @@ public class trendyolStepdefinition {
     }
     @Given("click to confirm cart button")
     public void click_to_confirm_cart_button() {
+        bekle(2);
         allpages = new Allpages();
         allpages.confirmCartButton.click();
+        bekle(2);
     }
     @Given("user writes the card number")
     public void user_writes_the_card_number() {
