@@ -13,5 +13,8 @@
         <module name="com.trendyol" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.trendyol" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
